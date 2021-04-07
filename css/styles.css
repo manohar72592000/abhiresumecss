@@ -1,0 +1,58 @@
+body{
+  background-color: black;
+}
+h1{
+  color: blue;
+}
+h2{
+  color:blue;
+}
+h3{
+  color:blue;
+}
+h4{
+  color:blue;
+}
+p strong {
+  color:blue;
+}
+p{
+  color: white;
+}
+table{
+  color:white;
+}
+ul{
+  color: white;
+}
+ol{
+  color:white;
+}
+.state{
+  color: green;
+}
+.abhi{
+  border-radius: 100%
+}
+.color{
+  background-color: green;
+}
+img:hover{
+  background-color: white;
+}
+.game{
+  background-color: green;
+}
+.music{
+  background-color: blue;
+}
+hr{
+  border-style: solid;
+  border-color: red;
+}
+.contact{
+  background-color: white;
+}
+.school{
+  background-color: White;
+}
